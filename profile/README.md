@@ -1,1 +1,12 @@
-## TESTING
+# fish-trait-network
+
+fish-trait-network is a collaborative effort to compile life-history estimates for all fishes.  It is envisioned to have three stages:
+
+1.  Data compilation
+2.  Analysis
+3.  Distribution
+
+So far it contains two components:
+
+* `fishtraitR` is an R-package to easily access predicted life-history estimates
+*  ftn-distribution contains a compressed database of predicted life-history estimates from Thorson et al. (In preparation)
